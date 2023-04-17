@@ -3,7 +3,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 import data
 
-TOKEN_API = "6182928386:AAEJEAFlzUqK4iIkFzyDpTL5HKGMJ08zUy8"
+TOKEN_API = ""
 bot = Bot(TOKEN_API)
 dp =Dispatcher(bot)
 
